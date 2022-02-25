@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sodom's vices destructive to other cities and states a sermon preached before the right honourable the lord mayor of the city of London, at the chappel of Guild-Hall, on Sunday August 1, 1697 / by Josiah Woodward ...</title>
+            <author>Woodward, Josiah, 1660-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67019</idno>
+            <idno type="STC">Wing W3521</idno>
+            <idno type="STC">ESTC R38321</idno>
+            <idno type="EEBO-CITATION">17295084</idno>
+            <idno type="OCLC">ocm 17295084</idno>
+            <idno type="VID">106353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1163:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sodom's vices destructive to other cities and states a sermon preached before the right honourable the lord mayor of the city of London, at the chappel of Guild-Hall, on Sunday August 1, 1697 / by Josiah Woodward ...</title>
+                  <author>Woodward, Josiah, 1660-1712.</author>
+               </titleStmt>
+               <extent>viii, 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer and A. Bell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title page has title: Mr. Woodward's sermon preach'd before the lord mayor at Guildhall Chappel, August 1, 1697.</note>
+                  <note>Running title: A sermon preached before the lord mayor.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezekiel XVI, 49 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:106353:1"/>
+            <pb facs="tcp:106353:1" rendition="simple:additions"/>
+            <p> Mr. <hi>Woodward</hi>'s SERMON Preach'd before the LORD MAYOR At <hi>Guildhall</hi> Chappel, <hi>Auguſt</hi> 1, 1697.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:106353:2"/>
+            <head>Clarke Mayor.</head>
+            <opener>
+               <dateline>
+                  <hi>Jovis</hi> 
+                  <date>xxiii <hi>die Septembris,</hi> 1697.</date> 
+                  <hi>Annoque Regni Regis WILLIELMI Tertii Angliae, &amp;c. Nono.</hi>
+               </dateline>
+            </opener>
+            <p>THIS Court doth deſire Mr. <hi>Wood<g ref="char:EOLhyphen"/>ward</hi> to print his Sermon preached at the <hi>Guildhall</hi>-Chappel, on Sunday the Firſt Day of <hi>Auguſt</hi> laſt, before the Lord Mayor and Aldermen of this City.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:106353:2"/>
+            <p> Sodom<hi>'s Vices deſtructive to other Cities and States.</hi>
+            </p>
+            <p>A SERMON Preached before the Right Honourable The Lord Mayor OF THE CITY of <hi>LONDON,</hi> At the Chappel of <hi>G<g ref="char:V">Ʋ</g>ILD-HALL,</hi> On Sunday <hi>Auguſt</hi> 1. 1697.</p>
+            <p>By JOSIAH WOODWARD, Miniſter of <hi>Popler.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>J. D.</hi> for <hi rend="blackletterType">Ra. Simpſon,</hi> at the Harp in St. <hi>Paul</hi>'s Church-yard. M DC XC VII.</p>
+            <pb facs="tcp:106353:3"/>
+         </div>
+         <div type="dedication">
+            <pb n="v" facs="tcp:106353:3"/>
+            <head>
+               <hi>To the Right Honourable Sir</hi> EDWARD CLARKE, <hi>Lord Mayor of the City of</hi> London.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SInce it has pleaſed your Lordſhip to introduce the following <hi>Sermon</hi> into further Light; I crave leave to proſecute the <hi>Subject</hi> of it ſo far as to intimate, that ſince the <hi>Idleneſs</hi> which the <hi>Text</hi> condemns is uſually the <hi>Parent,</hi> or at leaſt the <hi>Nurſe</hi> of the other Vices therein mention'd; it ſeems very natural to conclude, that a general Engagement of the many idle Hands among us in <hi>ſutable Employments,</hi> would be a moſt direct means to ſuppreſs our other <hi>peſtilent Enormities.</hi> We could ſcarcely be imagined liable to be over-run with <hi>Sodom</hi>'s <hi>Pride, Luxury,</hi> and <hi>Uncleanneſs,</hi> if we did not give way to <hi>Sodom</hi>'s <hi>Idleneſs.</hi>
+            </p>
+            <p>The ſetting up of <hi>Publick Work-Houſes</hi> for the Encouragement of the <hi>Diligent,</hi> the Relief of the <hi>Poor,</hi> the Employment of the <hi>Idle,</hi> and the Correction of the <hi>Criminal,</hi> is a Noble and Excellent Deſign, which has been long in the Thoughts and Wiſhes of many <hi>Great Men</hi> and <hi>Brave Spirits</hi> amongst us. And it is hoped, that it may now be ſeaſonably and ſucceſsfully propoſed to that <hi>Auguſt Aſſembly</hi> which ſuperintends the grand Intereſts of this <hi>Nation.</hi>
+            </p>
+            <p>For, a greater <hi>National Good</hi> can hardly be ima<g ref="char:EOLhyphen"/>gined than this would ſoon appear to be; it being un<g ref="char:EOLhyphen"/>doubtedly
+<pb n="vi" facs="tcp:106353:4"/> a much greater <hi>Chari<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> to any poor Perſon that is able to labour, to ſupply <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im with <hi>conſtant Work</hi> to get his Living, than to afford him a conſtant Mainte<g ref="char:EOLhyphen"/>nance in <hi>Idleneſs:</hi> for as much as <hi>Idleneſs</hi> would natu<g ref="char:EOLhyphen"/>rally mouriſh many Diſeaſes in his Body, and Vices in his Soul, which an habitual Employment would be apt to prevent.</p>
+            <p>And in this <hi>Opinion,</hi> my Lord, (if I may not call it a <hi>Demonſtration)</hi> I am ſupported by that <hi>Great Phi<g ref="char:EOLhyphen"/>loſopher</hi> of ours, the <hi>Lord Verulam;</hi> who adviſed <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to R. <hi>James I. Hern</hi>'s <hi>Dom. C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rthuſ.</hi>
+               </note> 
+               <hi>that all Houſes of Charity ſhould be Houſes of convenient Employment and Induſtry:</hi> which would at once enlarge the extent of the Charity, and make it of greater Benefit to the Partakers of it; beſides thoſe great Advantages which would accrue to the <hi>Publick</hi> by a general Employment of all Hands, in the increaſe of our <hi>Manufacture, Trade,</hi> and <hi>Navigation:</hi> which are none of the leaſt Intereſts of this <hi>famous Iſland.</hi>
+            </p>
+            <p>And now, ſince the Advantages of a <hi>general Em<g ref="char:EOLhyphen"/>ployment</hi> are ſo very great, and ſo evident to every conſidering Perſon; it is very ſtrange that in ſuch a tra<g ref="char:EOLhyphen"/>ding, wealthy, and populous <hi>City</hi> as this, which is ho<g ref="char:EOLhyphen"/>noured by the Reſidence and Government of ſo many <hi>Wiſe</hi> and <hi>Induſtrious Perſons,</hi> there is not yet any effectual Proviſion made to ſet and keep thoſe <hi>Idle People</hi> to work, who now perplex the <hi>Buſineſs</hi> of the more Dili<g ref="char:EOLhyphen"/>gent, diſturb their <hi>Quiet,</hi> pilfer their <hi>Goods,</hi> and who are in truth the Sin and Shame, the Burden and Annoy<g ref="char:EOLhyphen"/>ance of this <hi>Opulent</hi> and <hi>Magnificent City.</hi>
+            </p>
+            <pb n="vii" facs="tcp:106353:4"/>
+            <p> And ſince the Sequel of my Diſcourſe leads me to it, I crave your Lordſhip's leave to ſuggeſt further; that it is (I humbly conceive) a <hi>fundamental Error</hi> (which the Induſtry of a <hi>Neighbouring Country</hi> may teach us to correct) that we inure not our <hi>Youth</hi> to diligent and conſtant Labour, by which they would be brought to ac<g ref="char:EOLhyphen"/>count <hi>Idleneſs</hi> a Torment in their adult Age. And by this Expedient our Commonalty would be brought to better Behaviour in time of <hi>Peace;</hi> and be rendered more obe<g ref="char:EOLhyphen"/>dient to Orders, and more able to endure Toils and Fatigues in time of <hi>War.</hi>
+            </p>
+            <p>For, the Nature of <hi>Men</hi> is in this reſpect very like that of <hi>Waters;</hi> the pureſt of them gather Filth by ſtand<g ref="char:EOLhyphen"/>ing ſtill: and therefore that coarſe and droſſy part of Mankind which never had any Refinement by <hi>Learning, Education,</hi> or <hi>Religion,</hi> will be apt to degene<g ref="char:EOLhyphen"/>rate into the very Dregs of corrupt Manners, if their peccant Humours be not carried off by wholeſom <hi>Labour</hi> and <hi>Exerciſe.</hi> Theſe Hands, My Lord, muſt be kept cloſe to commendable Employments, or they will tear and undermine the <hi>State</hi> that breeds them.</p>
+            <p>And therefore, it is the Hope and Expectation of all good People, that ſince our <hi>Renowned Soveraign</hi> has (by the great Bleſſing of God) reduced our <hi>Foreign Enemies</hi> to Reaſon, He will now apply the <hi>Thought<g ref="char:EOLhyphen"/>fulneſs</hi> of his <hi>Royal Mind</hi> to correct our <hi>Domeſtick Enormities</hi> and <hi>Impieties;</hi> which will otherwiſe moſt certainly deſtroy our <hi>Peace</hi> and <hi>Hope,</hi> our <hi>Proſperity</hi> and <hi>Renown,</hi> and will (in a word) be the Bane of all our <hi>Intereſts</hi> and <hi>Bleſſings.</hi>
+            </p>
+            <pb n="viii" facs="tcp:106353:5"/>
+            <p> Now, ſince we have been often told, that the Calm of Peace is the only proper Scene of ſuch a <hi>Reformation,</hi> the good God grant that we may make a due Improvement of the <hi>preſent Opportunity,</hi> and that we abuſe it not after that ingrateful ſort that we have many others.</p>
+            <p>In theſe <hi>Noble and Divine Enterprizes</hi> would the <hi>Great Soul</hi> of our <hi>Dread Soveraign</hi> be ſhewn in its matchleſs <hi>Glory;</hi> when his <hi>Royal Breaſt</hi> ſhall appear to glow with a Zeal for the <hi>good Manners</hi> of his People, ſutable to that <hi>Martial Proweſs</hi> whereby he has aſſerted their <hi>Liberties</hi> and <hi>Rights.</hi> Then will He ſhine with a brightneſs of <hi>Majeſty</hi> that will be conſpicuous to all Mankind; beloved of the <hi>Good,</hi> dreaded by the <hi>Evil,</hi> admired and honoured of <hi>All.</hi>
+            </p>
+            <p>And finally, then ſhall we indeed render a meet <hi>Thank-Offering</hi> to the God of our Mercies, who has by an extraordinary Hand of <hi>Providence</hi> ſupported us theſe many Years; who has marvelouſly ſuccoured and deliver<g ref="char:EOLhyphen"/>ed us in the moſt extreme <hi>Dangers;</hi> and in fine, who has mercifully ſetled us (as we now hope) on the Baſis of a <hi>good and honourable Peace;</hi> which, that God would vouchſafe to ſanctify to us, that it may in Mercy be continued with us, is the earneſt Prayer of,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhip's Very reſpectful Humble Servant, <hi>JOSIAH WOODWARD.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106353:5"/>
+            <epigraph>
+               <bibl>EZEK. XVI. 49.</bibl>
+               <q>
+                  <hi>Behold, This was the Iniquity of thy Siſter</hi> Sodom; <hi>Pride, fulneſs of Bread, and abundance of Idleneſs was in her, and in her Daughters; neither did ſhe ſtrengthen the hand of the Poor and Needy.</hi>
+               </q>
+            </epigraph>
+            <p>THE Miſſion of <hi>Ezekiel</hi> into the <hi>Prophetick Office</hi> 
+               <note place="margin">Ezek. 1. <hi>per totum.</hi>
+               </note> was very extraordinary, (as we find it deſcribed in the beginning of his <hi>Prophecy)</hi> and truly he <note place="margin">Ezek. 2. 1.</note> was raiſed up in a very extraordinary Juncture; even when the Sins of the <hi>Jews</hi> were ripe, and their De<g ref="char:EOLhyphen"/>ſtruction <note place="margin">Ver. 6.</note> at the door.</p>
+            <p>God had already pour'd out ſome Vials of his Wrath upon that degenerate Nation: for now they became a Prey to their Adverſaries on every ſide, to whom they were formerly a Terror. They were inſulted by the <hi>Bands of the Syrians, the Moabites, and the Ammonites,</hi> as we read, 2 <hi>King.</hi> 24. 2. for 'tis there expreſly ſaid, that <hi>God ſent theſe Armies againſt them, to deſtroy them.</hi> Be<g ref="char:EOLhyphen"/>ſides this, the King of <hi>Egypt</hi> miſerably haraſs'd them, <note place="margin">2 King. 23. 35.</note> and brought them under ſevere Tributes. And now at the laſt, the King of <hi>Babylon</hi> had invaded them, and be<g ref="char:EOLhyphen"/>ſieged their <hi>Capital City;</hi> and entering it by Surrender, he had driven away their King <hi>Jehojachin,</hi> and great <note place="margin">2 King. 24. 11.</note> numbers of the People Captive to <hi>Babylon:</hi> And having made <hi>Zedechiah</hi> his Vice-Roy, he committed the Govern<g ref="char:EOLhyphen"/>ment <note place="margin">Ver. 17. Ver. 20.</note> of <hi>Judea</hi> to him, till he forfeited it by his Rebelli<g ref="char:EOLhyphen"/>on, which was nine years after. And then indeed the Forces of <hi>Babylon</hi> returned in fury, and laid both <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> 
+               <note place="margin">2 Chron. 36. 19.</note>
+               <pb n="2" facs="tcp:106353:6"/> and the <hi>Temple</hi> in Ruins, and fill'd all places with Slaughter and Deſolation.</p>
+            <p>Now, it was in the time of this Reſpite, betwixt the firſt and ſecond Invaſion made upon them by the <hi>Chalde<g ref="char:EOLhyphen"/>ans,</hi> 
+               <note place="margin">Ezek. 1. 2.</note> that God was pleaſed to inſpire the Prophet <hi>Ezekiel</hi> (one of the <hi>Jewiſh Captives</hi> at <hi>Babylon)</hi> to rebuke this <note place="margin">Ver. 1.</note> backſliding People, who were not at all amended by their many Afflictions. And this was the laſt Prophet who pleaded with them in the Name of God, before their total Subverſion in <hi>Church and State.</hi>
+            </p>
+            <p>How gracious and long-ſuffering is Almighty God! who tries the greateſt of Sinners in methods of Love and Mercy; and follows even thoſe with Calls to Repent<g ref="char:EOLhyphen"/>ance, who are advanced to the Brink of Ruin. When he had here brought great Miſery upon the whole Land of <hi>Judea;</hi> and ſuffered their Enemies to prevail in a great meaſure over them: He then ſtops the Torrent of his Wrath, and they muſt have a Reprieve for nine Years, before their final Overthrow, to <hi>conſider the Things which belong to their Peace.</hi>
+            </p>
+            <p>Thus we often ſee a prudent and tender Parent, who having given ſome blows of Correction to a froward and undutiful Child, then ſtops his hand in which he holds the Rod; and expoſtulates and reaſons the Caſe, to ſee whether there be any relenting diſpoſition in the Child to prevent further Blows.</p>
+            <p>But alas! Such a fatal hardneſs and <hi>fatneſs of Heart</hi> had ſeized this profligate People, that none of theſe things moved them. They reformed not one of thoſe Enormi<g ref="char:EOLhyphen"/>ties which the Prophet aſſured them would be the Cauſ<g ref="char:EOLhyphen"/>es of their Ruin: tho' they could not but ſee that they were the very ſame which had been the Deſtruction of <hi>Sodom</hi> before, as the Prophet tells them to their Faces in the words but now recited in your Ears. <hi>Behold, this was the Iniquity of thy Siſter</hi> Sodom; <hi>Pride, fulneſs of</hi>
+               <pb n="3" facs="tcp:106353:6"/> 
+               <hi>Bread, and abundance of Idleneſs was in her, and in her Daughters; neither did ſhe ſtrengthen the hand of the poor and needy.</hi>
+            </p>
+            <p>In which Words, the Prophet endeavours to impreſs this <hi>Obſervation</hi> upon them, which I beſeech God to fix deeply upon every Soul here preſent, namely,</p>
+            <p>
+               <hi>That a City or Nation is then in very great Danger, when it abounds with thoſe Sins for which other Cities and Nations have been deſtroyed.</hi>
+            </p>
+            <p>The ſame Way leads directly to the ſame End: And the ſame Sins lead as ſurely to the ſame Miſeries. <hi>God is a Righteous Judg,</hi> and will deal impartially with all Peo<g ref="char:EOLhyphen"/>ple according to their Sins, for he is no Reſpecter of Per<g ref="char:EOLhyphen"/>ſons. He has done Juſtice already to the <hi>Jews,</hi> and he will not do otherwiſe to the <hi>Gentiles.</hi>
+            </p>
+            <p>So that the Spirit of God here, takes one of the moſt awakening methods in the World to rouze up the <hi>Jews</hi> from their torpid Slumbers. He points at the very Cauſ<g ref="char:EOLhyphen"/>es of their growing Miſeries, and preſſes them to apply themſelves to the ſpeedieſt methods of Redreſs.</p>
+            <p>
+               <q>Behold (ſays he) the very Symptoms of Deſtruction, which appear'd in the Cities of <hi>Sodom,</hi> are dreadfully apparent in thy Cities, even thine. Does it not fill thee with horrour to behold the very ſame Plague-ſpots up<g ref="char:EOLhyphen"/>on thee that were on thoſe Places which God deſtroyed by fire from Heaven? Thou art the very Siſter of <hi>Proud, Idle, <g ref="char:V">Ʋ</g>nclean,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nmerciful Sodom:</hi> a Siſter to her in Vice and Impudence; and art drawing on to as certain and as ſore a Deſtruction. O <hi>Jeruſalem,</hi> I am ſent from thy God to thee, to adviſe thee of this, and to charge thee to conſider thy languiſhing State, and to prevent thy Ruin. But <hi>whether thou wilt hear, or whether thou wilt forbear,</hi> I will ſpread both thy Sin and thy Danger before thine Eyes. Behold, thou art become a <hi>ſecond Sodom:</hi> and thoſe very Sins which
+<pb n="4" facs="tcp:106353:7"/> abound in thee, were thoſe which deſtroyed her. They were haughty, and luxurious, and unmerciful, as ye are this day; and <hi>God took them away, as he ſaw good.</hi>
+               </q>
+            </p>
+            <p>The <hi>Overthrow of Sodom</hi> was a proverbial ſpeech for a ſudden and terrible Deſtruction, and is ſo uſed both in the Old and New Teſtament. We find, that God threatned to deſtroy <hi>Babylon,</hi> as <hi>he overthrew Sodom and Gomorrah,</hi> 
+               <note place="margin">Jer. 50. 40.</note> 
+               <hi>and the neighbouring Cities thereof:</hi> which another Pro<g ref="char:EOLhyphen"/>phet tells us were <hi>Admah and Zeboim.</hi> And the Apoſtle <note place="margin">Hoſ. 11. 8.</note> 
+               <hi>Jude</hi> minds us, that the Deſolation of thoſe Cities is ſet forth by God's appointment, as a terrible Example to all after Ages: That all <hi>Cities</hi> and <hi>Nations</hi> may conſider in what Danger they ſtand, when once they come into any affinity to their Sins. And therefore it will nearly con<g ref="char:EOLhyphen"/>cern us at this time (when all, but ſuch as never think, are convinc'd, that both our Sins and Dangers are tre<g ref="char:EOLhyphen"/>mendous) to conſider whether the Vices amongſt us are not ſuch as led both <hi>Sodom</hi> and <hi>Judea</hi> to their Ruin. For which purpoſe, I now come to lay them in order before you, as they are repreſented in the Text: And I recom<g ref="char:EOLhyphen"/>mend this important matter to your ſpecial Conſidera<g ref="char:EOLhyphen"/>tion, (particularly to ſuch as are more peculiarly obliged to conſult the Intereſts of this <hi>Great City)</hi> as in the Pre<g ref="char:EOLhyphen"/>ſence of Almighty God.</p>
+            <p n="1">I. The firſt Sin mentioned in the Text, as a Cauſe of the Deſtruction of <hi>Cities</hi> and <hi>Nations,</hi> is that of <hi>Pride.</hi> Which conſiſts in an overweaning Conceit of one's ſelf, or of ſomething belonging to us, to that degree, that our Heart is vainly lifted up thereby. And being ſo, the Man grows inſolent in moſt things which he either thinks, ſpeaks, or does. He has a ſcornful Eye, an impe<g ref="char:EOLhyphen"/>rious way of ſpeaking, and a contemptuous Carriage towards all Men. Yea, the proud Man carries it ſtifly
+<pb n="5" facs="tcp:106353:7"/> towards God himſelf; and almoſt forgets his dependence upon him, and that he was formed out of the Duſt of the Earth. It is a Vice that is never barren, but is con<g ref="char:EOLhyphen"/>tinually bringing forth other Enormities by ſholes. It produces a contempt of Sacred things, and an inſolent reſentment of God's Providences, both of Bounty and Cor<g ref="char:EOLhyphen"/>rection. In any Affliction he frets and is peeviſh: for his Pride will not allow him to think that he deſerves any Rebuke or Correction; but he is rather perſwaded, that the greateſt Mercies of God are due to his Merit. And this makes him grudg at the Enjoyments and Promotions of others, as if the whole World were made for him a<g ref="char:EOLhyphen"/>lone, and every Gift of God to others were a Robbery committed upon him. And for the ſame Reaſon he is impatient of Reproof, and very apt to ſcoff, eſpecially at ſuch as even in deſpight of his Pride he muſt needs per<g ref="char:EOLhyphen"/>ceive to be better than himſelf. He carries it with a do<g ref="char:EOLhyphen"/>mineering Severity towards his Inferiours; ſo that (like his Brother <hi>Nabal)</hi> there's ſcarcely <hi>any one that dares to ſpeak to him;</hi> and the leaſt Affront (tho undeſign'd) moves him to revenge it even with Blood. As for Superiours, he ſcarcely thinks he has any: but like a true <hi>Son of Belial,</hi> he is <hi>without Yoke,</hi> and is not to be brought under due Government; being ever apt to mutiny, and to breed diſ<g ref="char:EOLhyphen"/>order: Not only ſaying with <hi>Nabal, Who is David?</hi> but with <hi>Pharaoh, Who is the Lord, that I ſhould ſerve him?</hi>
+            </p>
+            <p>It is one chief Study of proud People, to endeavour to bring others to admire them as much as they do them<g ref="char:EOLhyphen"/>ſelves. And to this end (when better accompliſhments fail) they affect to plume themſelves with the richeſt Orna<g ref="char:EOLhyphen"/>ments they can purchaſe or invent. And here, alas! <hi>Pride</hi> will ſo overdo the buſineſs, that it cannot but move Con<g ref="char:EOLhyphen"/>tempt in every ſenſible Perſon to behold with what ridi<g ref="char:EOLhyphen"/>culous Forms and Modes they attempt to ſet forth them<g ref="char:EOLhyphen"/>ſelves. They fancy a ſort of Comelineſs in Deformity,
+<pb n="6" facs="tcp:106353:8"/> and that it adds a beauty to the Face to repreſent it under diſeaſes and blemiſhes, tho God has given them an un<g ref="char:EOLhyphen"/>ſpotted ſoundneſs.</p>
+            <p>God has not given to the Children of Men a party-colour'd Skin like the motly Brutes: nor has he markt them as he does many venomous Creatures and peſtilen<g ref="char:EOLhyphen"/>tial Diſeaſes, with dark Spots: and yet how unſeemly ſoever this appears to all impartial and vertuous Minds, (whom Cuſtom and vain Notions have not blinded) it is hidden from their own eyes.</p>
+            <p>Now this Vice of <hi>Pride</hi> manifeſtly tends to Deſtructi<g ref="char:EOLhyphen"/>on ſeveral ways.</p>
+            <p>
+               <hi>Firſt,</hi> In that it produces a multitude of other Sins, as its natural Off-ſpring and Effect: as you have already heard.</p>
+            <p>And <hi>Secondly,</hi> As it hardens the Heart under all the Guilt it brings upon it. For it always runs in the direct Diameter to Repentance. Proud Perſons are great Ad<g ref="char:EOLhyphen"/>mirers of what themſelves do, and are hardly brought to acknowledg that they have done amiſs. But, like <hi>Saul,</hi> they avow <hi>that they have done the Will of the Lord,</hi> tho every Beaſt in his Herd had a Mouth to refute it.</p>
+            <p>And <hi>Thirdly,</hi> Pride leads to Ruin, as it is a Sin which leavens the very Prayers of Men, and renders all their religious Performances unſavoury in the Noſtrils of God. The <hi>Phariſee</hi> mentioned by our Saviour, was rather pufft <note place="margin">Luk. 18. 11.</note> up than humbled in his very Prayer, and ſo was rather <hi>condemned</hi> by it than <hi>juſtified</hi> in the ſight of God. For, Pride is a <hi>thing which God hates.</hi> Yea, which he will <note place="margin">Prov. 6. 17.</note> 
+               <hi>glorify himſelf in debaſing.</hi> And therefore he will ſurely <note place="margin">Iſa. 2. 11.</note> ſet himſelf to it, and go through with it. And upon all theſe accounts, the proud Perſon is ſo expoſed to the Wrath of God; that the <hi>inſpired Wiſeman</hi> has recorded it as a certain Mark of Deſtruction, <hi>Pride goeth before Deſtruc<g ref="char:EOLhyphen"/>tion,</hi> 
+               <note place="margin">Prov. 16. 18.</note> 
+               <hi>and a haughty Spirit before a fall.</hi> And indeed it can<g ref="char:EOLhyphen"/>not
+<pb n="7" facs="tcp:106353:8"/> be otherwiſe, ſince the proud Perſon renounces his Truſt in God, to place it in himſelf; which is to remove his Building from a <hi>Rock,</hi> to found it on the <hi>Sand.</hi>
+            </p>
+            <p>And ſo I paſs on to conſider the <hi>ſecond Vice,</hi> which is repreſented in the Text as of a like deſtructive Nature; which is,</p>
+            <p n="2">II. <hi>Fulneſs of Bread.</hi> This Expreſſion denotes that <hi>Luxury and Exceſs</hi> which is uſually produced by great Plenty when it falls into ill Hands. The <hi>Sodomites,</hi> it ſeems, made a very ill uſe of their plentiful Land, which is deſcribed, <hi>Gen.</hi> 13. 10. to be ſo beautifully ſituated, and ſo plentifully ſtored, that <hi>it was even as the Garden of the Lord.</hi> A <hi>ſecond Eden,</hi> for plenty of pleaſant Fruits, and other commodious Product. But theſe, alas! ſerved their Beſtial Luſts, and nurſed them to a very monſtrous Growth: till at laſt their Incontinence tranſgreſs'd the very Laws of Nature, and became very <hi>crying</hi> in the Ears of God.</p>
+            <p>Now, this brutal feeding of our Bodies, or as the <hi>A<g ref="char:EOLhyphen"/>poſtle</hi> calls it, <hi>feaſting our ſelves without Fear,</hi> is contrary to the very Nature of our Chriſtian Warfare. For it ad<g ref="char:EOLhyphen"/>miniſters indecent Flames to the ſenſitive Appetite, and at the ſame time dulls the accuracy of Reaſon, and lays the Conſcience aſleep. And we may eaſily gueſs what the End of that Perſon will be, who lies open to his E<g ref="char:EOLhyphen"/>nemies, and binds the hands of his Friends. But the prudent Chriſtian does otherwiſe: and ſays with St. <hi>Paul</hi> (tho he was ſufficiently macerated by his continual La<g ref="char:EOLhyphen"/>bours and Afflictions) <hi>I keep under my Body, and bring it into ſubjection, leſt by any means, when I have preacht to others, I my ſelf ſhould be a Caſt-away,</hi> 1 Cor. 9. 27.</p>
+            <p>He that would be a ſolid and ſerious <hi>Chriſtian,</hi> yea that would but be a grave and decent <hi>Moraliſt,</hi> muſt ob<g ref="char:EOLhyphen"/>ſerve due Moderation in Meats and Drinks, and all cor<g ref="char:EOLhyphen"/>poral
+<pb n="8" facs="tcp:106353:9"/> Pleaſures: Yea, he muſt accuſtom his Appetite to ſubmit to the ſelf-denying Rules of <hi>Abſtinence and Morti<g ref="char:EOLhyphen"/>fication</hi> in their Seaſon; and by theſe and other Divine Ex<g ref="char:EOLhyphen"/>pedients he muſt maintain a regular Government over the Concupiſcible Appetite. Which is a thing very a<g ref="char:EOLhyphen"/>greeable to the Fleſh-denying Nature of our <hi>Divine Re<g ref="char:EOLhyphen"/>ligion,</hi> and is both an Ornament and Help to the ſerious Practice of many parts of it. And therefore it is no wonder if the contrary tends to Ruin.</p>
+            <p n="3">III. The next deſtructive Sin is that of <hi>Idleneſs:</hi> which, it ſeems, abounded greatly in <hi>Sodom</hi> before its Deſtruction. For it is ſaid, <hi>Abundance of Idleneſs was in her, and in her Daughters;</hi> or eſpecially amongſt their Women.</p>
+            <p>
+               <hi>Idleneſs</hi> conſiſts either in doing Nothing, or Nothing of uſe, that a Perſon might and ought to have done in his Place and Capacity. Now, to be of ſuch a negligent, ſluggiſh, and torpid temper, is to contradict the very <hi>End</hi> and <hi>Nature</hi> of Life. To live without activity and livelineſs, is in a manner to live (if I may ſo ſpeak) without Life, like People aſleep or dead. And to all in<g ref="char:EOLhyphen"/>genious Minds, this is a moſt intolerable penance; it is contrary to the Nature of <hi>brave and generous Spirits,</hi> and therefore they ever treat the droniſh Sluggard with juſt Diſdain. And it is the <hi>Apoſtle</hi>'s Rule, that the Slug<g ref="char:EOLhyphen"/>gard ſhould be ſtarved out of his idle way of Life, and <hi>not be ſuffered to eat, till he applies himſelf to work.</hi> 
+               <note place="margin">2 Theſſ. 3. 10.</note>
+            </p>
+            <p>
+               <hi>Idleneſs</hi> is a Sin not only againſt God, but againſt one's <hi>Generation,</hi> yea againſt one's own <hi>Health, Intereſts,</hi> and <hi>Poſterity.</hi> There ought not to be any Perſon (Male or Female) idle in the World. For God never made any one for nothing, but to be of Uſe and Advantage to the Publick-Weal, according to his Station and Capacity.</p>
+            <pb n="9" facs="tcp:106353:9"/>
+            <p> This great Machine of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſe</hi> has not one Wheel or Pin in it, tho never ſo ſmall, but what is of uſe in its place, and tends to compleat the whole. We behold all the works of Nature full of Action, and uſeful motion. The <hi>Heavens</hi> take their laborious Courſes, and <hi>the Sun delighteth to run his</hi> rapid perpetual <hi>Race.</hi> And every <hi>Be<g ref="char:EOLhyphen"/>ing</hi> upon Earth, from the <hi>Elephant</hi> to the <hi>Ant,</hi> drudges and toils in things ſutable to its Nature. And ſome Active Minds of late can ſcarcely bear it that the <hi>Earth</hi> ſhould be accounted a <hi>dead Weight;</hi> and have framed a probable Scheme of its motion amongſt the reſt.</p>
+            <p>And ſhall <hi>Man,</hi> the moſt noble Creature, and the moſt capable of brave Productions of any under the Heavens, be the only uſeleſs and unactive part of the Creation? Has God given us a <hi>Divine Soul</hi> capable of ſuch Angelick Thoughts and Deſigns, and ſhall we apply our ſelves to nothing at all? or to nothing worthy of our Nature and Endowments?</p>
+            <p>It is not fit indeed that all Men ſhould be employ'd in manual Labour, or in the mechanick Occupations of hu<g ref="char:EOLhyphen"/>man Life. Some Men appear in the World with ſuch a <hi>noble Genius,</hi> ſuch <hi>refined Wiſdom, princely Courage,</hi> and <hi>vivacity</hi> of Spirit, accompained with ſuch a <hi>generous Concern</hi> for the <hi>Publick Good,</hi> that they ſeem to be pre<g ref="char:EOLhyphen"/>pared and appointed of God to govern and defend the reſt; and to make improvements in thoſe Arts and Specu<g ref="char:EOLhyphen"/>lations which tend to the accommodation of <hi>human Life</hi> and the <hi>publick Welfare;</hi> and above all, to diſpoſe the con<g ref="char:EOLhyphen"/>verſations of Men in thoſe Divine paths of <hi>Piety</hi> and <hi>Ver<g ref="char:EOLhyphen"/>tue</hi> which tend to their everlaſting Bliſs. Theſe are Things which ennoble a Man, and render him <hi>Honour<g ref="char:EOLhyphen"/>able</hi> and uſeful in his Generation, and make his Memory fragrant to future Ages.</p>
+            <pb n="10" facs="tcp:106353:10"/>
+            <p> But there are ſome on the other hand who are by natu<g ref="char:EOLhyphen"/>ral incapacity rendered unfit for publick ſervice, or any o<g ref="char:EOLhyphen"/>ther Poſt of Honour, as <hi>Idiots</hi> and <hi>meer Naturals;</hi> who are as Cyphers and Expletives in the Volume of the Cre<g ref="char:EOLhyphen"/>ation. And truly this reflects with ſharpneſs upon ſuch as rank themſelves among theſe <hi>noteleſs parts</hi> of hu<g ref="char:EOLhyphen"/>man Kind by an idle and uſeleſs Life. Of whom it can only be ſaid, when they are gone; <hi>That ſuch a one breath<g ref="char:EOLhyphen"/>ed ſo many years in the World, and ſo died.</hi> Alas! what a putid ſhame is it to thoſe whom God has every way fitted to do great and worthy Things in the <hi>Church</hi> and <hi>State</hi> in which they live, and has many ways called and excited them to it; that <hi>they bury their rich Talents in the Dirt:</hi> and the Ruſt of Idleneſs, or the Poiſon of Vice devours all thoſe Endowments whereby they might have done great things in their Generation.</p>
+            <p>Nor are they more <hi>Honourable,</hi> who employ their Parts and Labours about ſome uſeleſs and vain thing, (like <hi>Domitian</hi>'s induſtry in catching Flies) and ſpend their Life in a ſort of laborious Idleneſs; I mean, in a buſy purſuit of impertinent things; like Children, who ſeem very buſy all the day long, and yet appear at night to have done nothing.</p>
+            <p>On the contrary, it is remark'd to the <hi>Glory</hi> of <hi>David</hi>'s Memory, That his Life was a <hi>ſtanding Service to his Ge<g ref="char:EOLhyphen"/>neration.</hi> 
+               <note place="margin">Act. 13. 36.</note> He was of a <hi>Noble publick Spirit,</hi> and ſpent his Sweat and Blood in the Defence and Advancement of his <hi>Country</hi> both in Church and State. And this renders his Memory bleſſed to this Day, and will do ſo to the end of the World. A noble and active <hi>Genius</hi> exerting it ſelf in contriving and doing Things for the <hi>Publick Intereſt,</hi> is a <hi>Divine Bleſſing</hi> to the Nation and Age wherein it ap<g ref="char:EOLhyphen"/>pears. Such a <hi>Worthy Perſon</hi> is like the Sun in the Firmament, which gives Life and Chearfulneſs where<g ref="char:EOLhyphen"/>ever
+<pb n="11" facs="tcp:106353:10"/> it ariſes. Or rather, like the <hi>Lord Jeſus Chriſt</hi> (the <hi>Sun of Righteouſneſs,</hi> from whom all ſuch <hi>Divine Spirits</hi> derive their Glory) whoſe Character it was, <hi>That he went about doing good.</hi>
+            </p>
+            <p>And whereas the Vice of <hi>Idleneſs</hi> in the Text is parti<g ref="char:EOLhyphen"/>cularly charged upon the <hi>Daughters of Sodom and Iſrael;</hi> this, alas! brings to our remembrance our national and unſpeakable Loſs in the deceaſe of that <hi>moſt induſtrious and pious Princeſs</hi> who lately held the Scepter of theſe Kingdoms, and endeavoured to purge all the <hi>Daughters</hi> of her Land from the Sin and Reproach of <hi>Idleneſs,</hi> by giving them a moſt admirable Example of indefatigable Diligence. O! may ſuch an <hi>Example</hi> ever obtain a gene<g ref="char:EOLhyphen"/>ral Imitation: that we may be exempted from the Sin im<g ref="char:EOLhyphen"/>puted, and the Danger threatned in the Text to <hi>Jeruſalem, and her idle Daughters.</hi>
+            </p>
+            <p>For indeed where <hi>Idleneſs</hi> prevails, it nurſes Wanton<g ref="char:EOLhyphen"/>neſs, Baſeneſs, and Effeminacy, and almoſt every Vice. The <hi>Sluggard's</hi> Heart is like his Field <hi>(Prov.</hi> 24. 21.) <hi>o<g ref="char:EOLhyphen"/>vergrown with Brambles and Weeds,</hi> and is unfit to pro<g ref="char:EOLhyphen"/>duce any good Fruit. Slothfulneſs ever dulls, enervates, and infatuates the Perſon that indulges it, till at laſt it brings him to Rags and Ruin. It brought <hi>Sodom and Je<g ref="char:EOLhyphen"/>ruſalem</hi> in the Text, to utter deſtruction; for <hi>abundance of Idleneſs was in them, and in their Daughters:</hi> and whether it be not ſo with us and ours will be of concernment to us to inquire; and indeed it will in a great meaſure ap<g ref="char:EOLhyphen"/>pear from that which falls under our conſideration in the next <hi>Particular,</hi> which is the laſt note of Deſtruction mentioned in the Text, namely,</p>
+            <p n="4">IV. An <hi>unmerciful Neglect of the Poor:</hi> which is ex<g ref="char:EOLhyphen"/>preſt thus, <hi>Neither did ſhe</hi> (i. e. Sodom) <hi>ſtrengthen the hands of the Poor and Needy.</hi>
+            </p>
+            <pb n="12" facs="tcp:106353:11"/>
+            <p> In which Expreſſion theſe three Things are laid to their Charge.</p>
+            <list>
+               <item>1. They did not help the Poor to their Right in mat<g ref="char:EOLhyphen"/>ters of Equity and Judgment.</item>
+               <item>2. They neglected to provide Subſiſtence for their im<g ref="char:EOLhyphen"/>potent Poor.</item>
+               <item>3. They did not provide Employment for ſuch as were able to labour. In all theſe ſenſes, <hi>the hands of the Poor</hi> were weaken'd and enfeebled.</item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> They did not help the <hi>Poor</hi> to their Right in matters of Equity and Judgment. The <hi>Poor Man's Cauſe</hi> was neglected and deſpiſed, and could not have a fair Hearing and a juſt Determination. In this Reſpect, the <hi>Magiſtrate</hi> ought to ſtrengthen the <hi>poor Man's hand,</hi> that he may be able to recover his juſt Wages where it is denied him, and may have Right done him in all Cauſes depend<g ref="char:EOLhyphen"/>ing before the <hi>Bench of Juſtice.</hi>
+            </p>
+            <p>The <hi>Prophet Iſaiah</hi> reproves this Partiality and Injuſtice in the <hi>Judges of Iſrael</hi> with great ſeverity, and tells them plainly (as my Text does) that they were become like <hi>Sodom</hi> in this iniquity: <hi>Hear the word of the Lord, ye Ru<g ref="char:EOLhyphen"/>lers</hi> 
+               <note place="margin">Iſa. 1. 10.</note> 
+               <hi>of</hi> Sodom, <hi>ſeek ye Judgment, relieve the Oppreſſed, judg the Fatherleſs, plead for the Widow.</hi> And he lamenteth, That the <hi>faithful City was become an Harlot: it was full</hi> 
+               <note place="margin">Ver. 23.</note> 
+               <hi>of Judgment, Righteouſneſs lodged in it, but now Murder<g ref="char:EOLhyphen"/>ers: Every one loveth Gifts, and followeth after Rewards,</hi> &amp;c.</p>
+            <p>When the Streams of Juſtice are thus perverted, ſo that the <hi>loud Cries of the Oppreſſed</hi> aſcend up to Heaven a<g ref="char:EOLhyphen"/>gainſt any <hi>City</hi> or <hi>Nation,</hi> it is in great Danger. For it is ſaid, <hi>if thou afflict the Widow and Fatherleſs in any wiſe; and they cry at all unto me, I will ſurely hear their cry: And</hi>
+               <pb n="13" facs="tcp:106353:11"/> 
+               <hi>my Wrath ſhall wax hot, and I will kill you with the Sword;</hi> 
+               <note place="margin">Exod. 22. 23, 24.</note> 
+               <hi>and your Wives ſhall be Widows, and your Children Fatherleſs.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> A Neglect to provide for the impotent <hi>Poor;</hi> ſuch as are by Sickneſs, Age, or calamitous Providences, rendered unable to get their living. Theſe are the feeble parts of the Body, which (as the Apoſtle ſays) muſt be <hi>ſupported by the more ſtrong,</hi> in love and pity to the whole, <note place="margin">Rom. 15. 1.</note> or they will be guilty of a moſt unnatural Cruelty. It is <hi>hiding our ſelves from our own Fleſh</hi> (as the Prophet <note place="margin">Iſa. 58. 7.</note> terms it) when we turn away from a moving Object of <hi>Charity.</hi>
+            </p>
+            <p>And that which enforces this Duty yet more upon Chriſtians, is, That our <hi>Bleſſed Saviour</hi> has eſpouſed the Poor as his <hi>Relations</hi> and <hi>Repreſentatives</hi> (where they are humble and pious) and reſents all Neglect of ſuch, as a perſonal Affront to himſelf, <hi>Mat.</hi> 25. 45. And there<g ref="char:EOLhyphen"/>fore we muſt become <hi>Infidels</hi> to the Promiſes and Threat<g ref="char:EOLhyphen"/>nings of his Book, before we can harden our Hearts a<g ref="char:EOLhyphen"/>gainſt proper Objects of <hi>Charity.</hi>
+            </p>
+            <p>And truly our <hi>State</hi> is inferiour to few, if any, in am<g ref="char:EOLhyphen"/>ple Contributions towards the ſubſiſtence of our <hi>Poor.</hi> But with ſubmiſſion, there may perhaps be ſome im<g ref="char:EOLhyphen"/>provements in the management of our <hi>publick Charity:</hi> the conſideration of which falls in with the laſt way of <hi>ſtrengthning the hands of the Poor;</hi> which is,</p>
+            <p>
+               <hi>Thirdly,</hi> By <hi>providing ſutable Employments for them,</hi> that we may ſhun two of the deſtructive Vices of <hi>Sodom</hi> at once, to wit, <hi>Idleneſs,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nmercifulneſs.</hi>
+            </p>
+            <p>It is moſt certain, that a full and conſtant Employ<g ref="char:EOLhyphen"/>ment of our <hi>Poor</hi> would remove multitudes of Evils at once from us, and open an Ocean of publick Benefits and
+<pb n="14" facs="tcp:106353:12"/> Divine Bleſſings. For, alas! Idleneſs tends to <hi>ſtrengthen the hands of our Poor</hi> in Wickedneſs, and in all manner of Vice: Many Hands in this Kingdom are at this day employ'd in pilfering and picking of Pockets, which by honeſt Labour would be ty'd up from this and other Enormities.</p>
+            <p>It is extremely moving to any good Mind to conſider, That many <hi>Thouſands</hi> of young and able People among us (whoſe diligent Labours would be of great Uſe and Advantage to the <hi>Publick Good,</hi> and might by that me<g ref="char:EOLhyphen"/>thod of getting their Living be brought to live ſoberly, peaceably, and honeſtly) do now turn Vagrants, Re<g ref="char:EOLhyphen"/>bels, and Vagabonds: yea, they ſteal, and lie, and com<g ref="char:EOLhyphen"/>mit Whoredom, and ſell their Souls to get a temporal Subſiſtence. A diſmal Thought! enough to move a Heart of Marble, if duly conſidered. And it is enough, methinks, to gain an univerſal Endeavour to redreſs this, if it be but obſerved, That in all probability, the Remedy of this <hi>grand Evil</hi> (eſpecially in this <hi>City)</hi> will be with leſs Charge and Trouble than the toleration of the Diſ<g ref="char:EOLhyphen"/>temper.</p>
+            <p>For indeed, the more this grows upon us, the more we ſhall of neceſſity be impoveriſh'd, as well by the na<g ref="char:EOLhyphen"/>tural Conſequence of it, as by the high Diſpleaſure of God againſt it. And truly, it becomes thoſe who find themſelves diſappointed and diminiſh'd in their <hi>Trade</hi> of late, to conſider whether this has not been one provoking Cauſe of it.</p>
+            <p>We behold Crowds of <hi>Beggars</hi> filling almoſt every Door, and diſturbing all Buſineſs and Converſation by their importunate Clamours. Our Ears are almoſt deafen'd both in the <hi>Streets</hi> and in the <hi>Fields</hi> with the loud Cries of ſuch as beg for Relief: and the common Excuſe for this idle way of Life, is, their want of
+<pb n="15" facs="tcp:106353:12"/> Work to ſet their Hands to. And from this ſtock of People bred up in Idleneſs, the <hi>High-ways</hi> come to be infeſted with <hi>Robbers,</hi> and our Houſes and Lives are endanger'd in the Night, when we ſhould reſt upon our Beds. And tho the <hi>Priſons</hi> are fill'd with them, and Thouſands of them are executed for their Outrages, (to the eternal Ruin of their Souls, as well as to their being cut off in the prime of their Days) yet the Diſ<g ref="char:EOLhyphen"/>temper grows upon us, and is like ſo to do, till ſuf<g ref="char:EOLhyphen"/>ficient <hi>Work-Houſes</hi> and <hi>ſtocks of Work</hi> be provided for their conſtant <hi>Employment;</hi> which all good People will moſt readily accept, and be thankful for it: And as for others, they muſt be driven to honeſt Labour by the com<g ref="char:EOLhyphen"/>pulſive Power of wholeſome Laws.</p>
+            <p>And without ſome ſuch Proviſion, it is not very eaſy to anſwer their Complaint of ſeverity againſt the <hi>Laws</hi> of our Land, which condemn ſo many <hi>Thouſands</hi> to Death for pilfering a few Pence, and yet provide no Means for them to get a Peny by honeſt Employment, when it may be done with publick Advantage.</p>
+            <p>It is a gracious Promiſe of God, that <hi>there ſhall always</hi> 
+               <note place="margin">Deut. 15. 11.</note> 
+               <hi>be poor People among us.</hi> And tho the unthinking and ſtingy Churl will not give God thanks for this Promiſe, yet the prudent and ſerious Perſon will; not only (tho chiefly) as it is a ſtanding way of conveying his Trea<g ref="char:EOLhyphen"/>ſures into the <hi>Bank of Heaven,</hi> but alſo as the uſe of the poor Man's Labours is the direct means of increaſing his <hi>Wealth</hi> upon Earth.</p>
+            <p>And truly, the laborious poor Man is one of the moſt infallible objects of <hi>Charity</hi> that we can chooſe, when his ability to labour fails him: Others may be <hi>Hypo<g ref="char:EOLhyphen"/>crites</hi> in their Profeſſion, but he can be none in his. But alas! as the Caſe now ſtands, any Perſon that is diſpoſed to <hi>Charity</hi> ſcarce knows where to chooſe proper objects for
+<pb n="16" facs="tcp:106353:13"/> it. How can he diſtinguiſh betwixt the <hi>real Indigents</hi> and the <hi>idle Vagrants,</hi> among the Crowds which ſolicit his Alms? When we paſs thorow the Fields, or ſit in our Houſes, and are entreated for an <hi>Alms</hi> by all the Aſ<g ref="char:EOLhyphen"/>ſeverations of <hi>Neceſſity and Want</hi> that a long and earneſt Harangue can expreſs: what divided ſentiments will a<g ref="char:EOLhyphen"/>riſe upon this in the Breaſt of a pious and prudent Perſon? It is difficult to believe, and yet as hard to disbelieve the piteous Narrative of the Petitioner. It is ſcarcely <hi>Chriſ<g ref="char:EOLhyphen"/>tian</hi> to deny, and yet it is ſcarcely <hi>prudent</hi> to give.</p>
+            <p>In ſuch caſes indeed our <hi>Charity</hi> will incline us to ven<g ref="char:EOLhyphen"/>ture the Hazard of a ſmall Alms, rather than run the Riſque of denying a poor <hi>Member of Chriſt.</hi> And in ma<g ref="char:EOLhyphen"/>ny Caſes it is almoſt neceſſary to give ſomething meerly to ſtop Clamour, and purchaſe Eaſe from intolerable noiſe and importunity: yea, ſometimes, to prevent the wrath and ill language which attends a denial.</p>
+            <p>Thus is the clear Current of <hi>Chriſtian Charity</hi> obſcured and diverted, and many are ſcarcely free Agents in what they give. And alas! all this while, there remain ma<g ref="char:EOLhyphen"/>ny poor Families who would be willing to work, tho they are aſhamed to beg: and ſome of theſe have conceal<g ref="char:EOLhyphen"/>ed their Miſeries within their private Walls; and have choſen rather to periſh in ſilence, than to open their Poverty, where their publick ſhame and reproach would be more certain than their conſtant Relief. O bleſ<g ref="char:EOLhyphen"/>ſed God! for thy Son's ſake lay not theſe things to our charge.</p>
+            <p>Thus have I laid before you the black Catalogue of <hi>Sodom</hi>'s <hi>Sins,</hi> which when they grew up alſo to a ripe<g ref="char:EOLhyphen"/>neſs in <hi>Jeruſalem,</hi> proved as fatal to the latter as to the former. And I muſt leave it to every one's Conſcience to judg, whether this <hi>City</hi> and <hi>Nation</hi> be not in great
+<pb n="17" facs="tcp:106353:13"/> Danger at this day from the ſame Cauſes. And let me entreat you, that you would not dull the Edg of this Conviction by the conceit of a <hi>ſubmitting Enemy,</hi> and a <hi>blooming Proſperity</hi> conſequent to it: But remember the <hi>Eternal Righteouſneſs</hi> of the <hi>Governour of the World,</hi> which will keep its courſe, tho that of Men does not; and that he has thouſands of ways to bring a profligate People to <hi>Miſery</hi> and <hi>Deſolation.</hi>
+            </p>
+            <p>And now, ſince we have peruſed the Liſt of <hi>Sodom</hi>'s <hi>Sins:</hi> if any one inquires after the Sin of <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs,</hi> which certainly made a great Cry among the reſt; we find it in the next verſe, <hi>and they committed Abomina<g ref="char:EOLhyphen"/>tion.</hi> And if we look for it in the Text, we ſhall find it in the loins of thoſe two Parents of Uncleanneſs, <hi>Lux<g ref="char:EOLhyphen"/>ury</hi> and <hi>Idleneſs,</hi> which where-ever they are conjoin'd, do uſually produce the naſty iſſue of <hi>beſtial <g ref="char:V">Ʋ</g>ncleanneſs:</hi> As, alas! they have done amongſt us to a very dreadful (I had almoſt ſaid, to a deſperate) Degree. So that if the Sin of <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs</hi> be but obſcurely repreſented in the Text, it was notoriouſly viſible in <hi>Sodom</hi>'s <hi>Streets,</hi> and alas! in ours too; with this ſhameful difference on our part, that whereas the <hi>Sodomites</hi> deferr'd the proſe<g ref="char:EOLhyphen"/>cution of their Luſts till the Evening, hoping to vail their unſeemly Sin by the black Curtains of the Night; with us, alas! it is proſecuted in the <hi>Noon-day,</hi> and in the <hi>thickeſt Concourſe.</hi> I pray God excite our <hi>Magiſtrates</hi> to take the puniſhment of theſe things into their Hands, <hi>for it is an Iniquity to be puniſh'd by the Judges,</hi> or elſe to <note place="margin">Job 31. 11.</note> be ſure God will: and then, wo, wo unto us.</p>
+            <p>This leads me to apply what has been ſaid. And here, in the firſt place;</p>
+            <p n="1">
+               <pb n="18" facs="tcp:106353:14"/> I. I humbly preſs the conſideration of theſe things upon thoſe <hi>Publick</hi> and <hi>Honourable Perſons,</hi> before whom I ſpeak, and muſt in Conſcience ſpeak freely. Is it not a moving Conſideration to behold the very Cauſes of <hi>Sodom</hi>'s Deſtruction, and <hi>Jeruſalem</hi>'s Deſolation, grow<g ref="char:EOLhyphen"/>ing upon us; and come to a very dreadful Criſis? This may well alarm every Member of our Community, but it does more eſpecially concern ſuch as by their high ſta<g ref="char:EOLhyphen"/>tion repreſent the <hi>Head</hi> of this <hi>Publick Body;</hi> which is particularly empower'd and capacitated to provide for the ſafety of the reſt of the <hi>Members.</hi>
+            </p>
+            <p>It was a very paſſionate Expoſtulation of the <hi>Diſciples</hi> with their ſleeping Maſter, <hi>Careſt thou not that we periſh?</hi> 
+               <note place="margin">Mar. 4. 38.</note> We muſt needs ſay, it was an unfit and indecent Queſ<g ref="char:EOLhyphen"/>tion to be put to the vigilant and tender <hi>Saviour</hi> of Men. But, methinks, the Extremities of our preſent Caſe may apologize for ſuch a rowzing Interrogatory to thoſe Perſons amongſt us who ſeem rock'd to ſleep by <hi>carnal Luſts</hi> and <hi>private Intereſts,</hi> ſo as to manifeſt no juſt Concern for the <hi>Publick Good.</hi>
+            </p>
+            <p>
+               <hi>Magiſtrates</hi> have ſome peculiar Features of God's Image impreſt upon them above others, even thoſe of his <hi>Power</hi> and <hi>Authority:</hi> and upon this account they are called <hi>Gods</hi> in Scripture, as being ordained of God to <hi>puniſh evil doers</hi> in his ſtead, and to ſupport <hi>ſuch as do well.</hi> But the <hi>Rulers of Sodom</hi> had put off this Character, and ſo had the ſupine <hi>Rulers of Iſrael;</hi> which ſo grieved and mov'd the Prophet <hi>Iſaiah,</hi> that the firſt Chapter of his Prophecy abounds with the ſharpeſt Invectives againſt them. And indeed, it is very deplorable to conſider, from what a Divine Seat of <hi>Honour</hi> and <hi>Dignity</hi> a corrupt Magiſtrate deſcends when he acts contrary to his Poſt, or does nothing
+<pb n="19" facs="tcp:106353:14"/> worthy of it. It is ſomewhat like the Fall of the <hi>Apoſtate Angels,</hi> from being <hi>God's Miniſters,</hi> to be his <hi>Enemies.</hi>
+            </p>
+            <p>And truly, every private Perſon will alſo fall under the ſame Condemnation who does not ſincerely ſet him<g ref="char:EOLhyphen"/>ſelf (according to his Place and Capacity) againſt the violent Torrent of abounding Sin: Which leads me to a Second Inference.</p>
+            <p n="2">II. Let all ſuch as pretend to <hi>Chriſtianity,</hi> yea, or to Sobriety and <hi>good Morals,</hi> ſet themſelves againſt the devouring Plagues of our Nation, the common Sins thereof. If ever we had need to give our pub<g ref="char:EOLhyphen"/>lick Vote for the <hi>Reformation</hi> of corrupt Manners, ſurely we have at this Day. And bleſſed be God who hath kindled any Deſires of it in any Perſons among us.</p>
+            <p>It is a moſt admirable work of God, and what opens the faireſt Proſpect to us of any that I know, That any <hi>young Perſons</hi> among us lament and eſcape the Pollutions of this degenerate Age, and look Heaven-wards. The good God increaſe their Num<g ref="char:EOLhyphen"/>ber, and the Number of their Friends and Favour<g ref="char:EOLhyphen"/>ers. <hi>The Lambs are the hope of the Flock; if they rot, the Flock will ſoon come to nothing.</hi> And if the next Generation degenerates as dreadfully as this has done, we ſhall be as corrupt as <hi>Sodom</hi> it ſelf, and as ſurely brought to deſolation.</p>
+            <p>Some may perhaps ſay, that all this is true, but how ſhall we help it? How ſhall we? Why the lively ſenſe of Danger ſcarce ever wants means or ſeaſons, or ſtrength to avoid it. Any one acts above his uſual ſtrength, when it is to ſave his Life, and to prevent Deſtruction. If we would once ſet our
+<pb n="20" facs="tcp:106353:15"/> ſelves heartily to ſutable Remedies, the work were more than half done: As the <hi>Reformation of Ninive,</hi> and its <hi>Reſcue</hi> from Deſtruction does abundantly teſ<g ref="char:EOLhyphen"/>tify.</p>
+            <p>Truly, Sirs, the World only ſtands by <hi>Divine Providence</hi> in hope of its <hi>Reformation;</hi> for <hi>all Fleſh ſeems to be corrupted before God,</hi> a ſmall Remnant only excepted. And if the Sins of any People are indeed remedileſs, their Ruin will be ſo too: as in the Caſe of <hi>Judah</hi> before us, of which it is ſaid, that <hi>they ſinn'd till there was no remedy.</hi> And if the <note place="margin">2 Chron. 36. 16.</note> caſe be come to this, I have only one Inference more to add.</p>
+            <p n="3">III. And Laſtly. How happy is their Caſe, who in times of general Depravity, are exempted from the common Corruption! who (like the <hi>Family of Lot</hi> in <hi>Sodom)</hi> are ſo far from being partakers in the vulgar Sins, that <hi>they are grieved in their Spirits</hi> at the Abomination which they <hi>ſee</hi> and <hi>hear</hi> from day to day. Such Perſons muſt expect to be the Scoff and By-word of the wicked People among whom they live, who ill repay their Pity and Concern for them. It was juſt ſo with <hi>Lot</hi> in <hi>Sodom:</hi> If he entreats them to refrain their pernicious Exorbitan<g ref="char:EOLhyphen"/>ces, they bitterly revile and rail upon him. They call him a <hi>buſy preſuming Fellow,</hi> who would be med<g ref="char:EOLhyphen"/>ling with what he had nothing to do, and would feign be as magiſterial as <hi>a Judg</hi> amongſt them, <hi>Gen.</hi> 19. 9.</p>
+            <p>Thus <hi>Lot</hi> was <hi>Sodom</hi>'s Laughter, whilſt <hi>Sodom</hi> was <hi>Lot</hi>'s Grief. But the End proves who acted the wiſ<g ref="char:EOLhyphen"/>eſt part. For then <hi>Lot</hi> and his pious Family were miraculouſly preſerved, when <hi>Sodom</hi> and its mocking
+<pb n="21" facs="tcp:106353:15"/> Crew were miraculouſly deſtroyed. <hi>Lot</hi> had the glo<g ref="char:EOLhyphen"/>rious Angels of Heaven ſent to him for his Safeguard, when <hi>Sodom</hi> had <hi>Fire and Brimſtone</hi> (the Emblems of Hell) pour'd down upon them for their Deſtruction. Good and bad Men live by contrary Rules and Prin<g ref="char:EOLhyphen"/>ciples now, and in their Death they will be divided; <hi>The one will be taken, and the other left.</hi> They take different Courſes, and muſt come to different Ends. Lazarus <hi>is for ever comforted, and</hi> Dives <hi>for ever tor<g ref="char:EOLhyphen"/>mented. Lot</hi> was ſaved both from the Flames of <hi>So<g ref="char:EOLhyphen"/>dom</hi> and thoſe of Hell, thro God's Marvelous Mer<g ref="char:EOLhyphen"/>cy: and <hi>Sodom</hi> periſhed by an Everlaſting Deſtruc<g ref="char:EOLhyphen"/>tion. For St. <hi>Jude</hi> tells us, That as they were de<g ref="char:EOLhyphen"/>ſtroyed by dreadful Flames upon Earth, ſo they <hi>now ſuffer the Vengeance of Eternal Fire.</hi> 
+               <note place="margin">Jude 7.</note>
+            </p>
+            <p>O! what greater Argument can I produce to con<g ref="char:EOLhyphen"/>vert Sinners, or to confirm Converts? I requeſt each of theſe to look to the End to which they are poſt<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Be of good courage, ye that ſerve the Living God, for your Work will ſpeedily and infinitly be reward<g ref="char:EOLhyphen"/>ed. Ye may perhaps be mockt and deſpiſed of Men, as your <hi>bleſſed Lord</hi> himſelf was: But ye will be commended and crowned of God at the laſt. And in truth, Sirs, the Favour of God is better than all the noiſy Fame and fading Enjoyments of this preſent World. I know nothing that deſerves the name of <hi>Riches, Honour</hi> or <hi>Happineſs,</hi> ſo much as the raiſing and refining of our Faculties and Capacities by <hi>Divine Wiſdom and Vertue.</hi> And truly this alone is all to us: For, all the Pleaſures of the Fleſh are Folly and Mockery, if compared with the noble Joy of a regenerate Soul delighting in God, its proper, adequate, and felicitating Object; by communion with
+<pb n="22" facs="tcp:106353:16"/> whom, it anticipates the <hi>Powers of the World to come,</hi> and <hi>rejoiceth with Joy unſpeakable and full of Glory.</hi>
+            </p>
+            <p>But as for ſuch, who will neither by the Mercies nor Judgments of God be reclaimed from Senſuality and ſordid Luſts: They ſink firſt into the vileneſs of Beaſts, and then into the miſery of Devils. Their temporary Vanity leads them moſt aſſuredly to eter<g ref="char:EOLhyphen"/>nal Vexation. They may perhaps have a little <hi>Sun<g ref="char:EOLhyphen"/>ſhine</hi> in the Morning, as <hi>Sodom</hi> it ſelf had; but there is a dreadful Shower of <hi>firy Indignation</hi> coming down from God to <hi>conſume his Adverſaries.</hi> For however they delude themſelves now, they will find at laſt, that <hi>it ſhall be more tolerable for</hi> Sodom <hi>and</hi> Gomorrah <hi>in the day of Judgment than for them,</hi> ex<g ref="char:EOLhyphen"/>cept they repent.</p>
+            <p>
+               <hi>Conſider what has been ſaid; and the Lord give you <g ref="char:V">Ʋ</g>nderſtanding in all things.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106353:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
